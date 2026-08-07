@@ -1,4 +1,4 @@
-**<p align="center">
+<p align="center">
   <a href="https://discord.gg/b3GCP7N9dV">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -12,4 +12,3 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </p>
-**
