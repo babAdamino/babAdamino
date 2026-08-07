@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/b3GCP7N9dV">
+  <a href="https://discord.gg/b3GCP7N9dV](https://discord.com/users/951162479239643206">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://twitch.tv/@babadamino">
