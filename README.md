@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center">support me</h3>
+<h3 align="center">💚 support me</h3>
 
 <p align="center">
   <img src="https://citrs.neocities.org/btc.png" alt="Bitcoin QR code" width="180">
