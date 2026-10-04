@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <sub>maker · open source enjoyer · probably overthinking something</sub>
+  <sub>product · engineer · designer · enthusiast</sub>
 </p>
 
 <p>
