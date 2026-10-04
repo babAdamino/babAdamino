@@ -29,8 +29,6 @@
   I also made <a href="https://github.com/babAdamino/lidgo"><strong>lidgo</strong></a>.
 </p>
 
-<br>
-
 <h3 align="center">💚 support me</h3>
 
 <p align="center">
