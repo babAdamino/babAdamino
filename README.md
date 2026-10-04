@@ -5,6 +5,20 @@
 <p align="center">
   <sub>product · engineer · designer · enthusiast</sub>
 </p>
+<p align="center">
+  <a href="https://discord.com/users/951162479239643206">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://twitch.tv/@babadamino">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch">
+  </a>
+  <a href="https://x.com/@babadamino">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://youtube.com/@babadamino">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
 
 <p>
   You can call me <strong>Adam</strong>, <strong>Adamino</strong>, or <strong>babAdamino</strong> if you're into that :)
@@ -29,17 +43,3 @@
 
 <br>
 
-<p align="center">
-  <a href="https://discord.com/users/951162479239643206">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://twitch.tv/@babadamino">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="https://x.com/@babadamino">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://youtube.com/@babadamino">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
