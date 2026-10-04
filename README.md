@@ -17,14 +17,14 @@
 
 <br>
 
-<h3 align="center">₿ support me</h3>
+<h3 align="center">support me</h3>
 
 <p align="center">
   <img src="https://citrs.neocities.org/btc.png" alt="Bitcoin QR code" width="180">
   <br><br>
   <code>bc1qjt0upsmuvk5whaf93hu3nmgmrr3xfhhsnjprth</code>
   <br>
-  <sub>BTC only · no pressure, obviously :)</sub>
+  <sub>₿ only · no pressure, obviously :)</sub>
 </p>
 
 <br>
